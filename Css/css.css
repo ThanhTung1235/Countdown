@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.countdown{
+    background-image: url('../Assets/fbimage-nyc02.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+.countdown_timer{
+    color: white;
+    text-align: center;
+}
+.container {
+    width: 100%;
+    max-width: 1000px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: auto;
+}
+.title{
+    font-size: 65px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 20px;
+    font-weight: 200;
+
+}
+.timer{
+    font-size: 80px;
+    font-weight: 300;
+    display: inline-block;
+    background: rgba(40,50,61,.62);
+    width: 125px;
+    height: 110px;
+    padding:0 10px;
+    margin-right: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.test {
+
+}
