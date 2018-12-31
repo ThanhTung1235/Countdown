@@ -1,5 +1,5 @@
 var time = document.getElementById("countdownTimer");
-var coutndownDate = new Date("Jan 1 ,2019 00:00:00").getTime();
+var coutndownDate = new Date("Feb 5 ,2019 00:00:00").getTime();
 var play = document.getElementById("player");
 var title = document.getElementById('title');
 var coutdown = document.getElementsByClassName("countdown")[0];
