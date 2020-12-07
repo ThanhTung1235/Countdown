@@ -4,7 +4,7 @@
 
 }
 .countdown{
-    background-image: url('https://www.itl.cat/pngfile/big/161-1610124_road-hd-wallpaper-road-trip-wallpaper-hd.jpg');
+    background-image: url('https://do.stemup.app//upload/N%C3%BAi_non_tr%C3%B9ng_%C4%91i%E1%BB%87p_ph%E1%BB%A7_m%C3%A2y_m%E1%BB%9D.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -25,7 +25,7 @@
     font-family: 'Lobster', cursive;
     margin-bottom: 20px;
     font-weight: 200;
-
+    color: #818181;
 }
 .timer{
     font-size: 80px;
